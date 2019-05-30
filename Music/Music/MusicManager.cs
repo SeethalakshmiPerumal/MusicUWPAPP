@@ -33,8 +33,8 @@ namespace Music
             songs.Add(new Song("song2", "AR.Rahman"));
             songs.Add(new Song("song3", "AR.Rahman"));
             songs.Add(new Song("song4", "AR.Rahman"));
-            songs.Add(new Song("song5", "AR.Rahman"));
-            songs.Add(new Song("song6", "AR.Rahman"));
+         //   songs.Add(new Song("song5", "AR.Rahman"));
+          //  songs.Add(new Song("song6", "AR.Rahman"));
 
             return songs;
            
